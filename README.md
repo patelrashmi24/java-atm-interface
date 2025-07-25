@@ -1,2 +1,16 @@
-# java-atm-interface
-A simple Java-based ATM project using only core Java basics.
+# Java ATM Interface 🏦
+
+This is a simple console-based Java project that simulates an ATM machine interface.  
+It includes basic features like:
+- Balance Check
+- Deposit Money
+- Withdraw Money
+- Exit
+
+## 🔧 Technologies Used
+- Java (Core)
+- Scanner Class
+- Loops & Conditions
+
+## 🧠 Author
+Rashmi Patel
